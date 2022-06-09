@@ -1,0 +1,42 @@
+
+
+.text h1{color: peru;
+    text-align: center;
+    font-size: 90px;
+    font-weight: 300;
+    
+}
+.text h2{color: peru;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 100;
+    
+}
+.text p{
+    text-align: center;
+    color: brown;
+    letter-spacing: 5px;
+
+}
+.VisitBar{
+    display:inline-block;
+    background-color:grey;
+    color:white;
+    text-align: center;
+    border-radius: 100px;
+    padding: 15px 25px;
+}
+body
+   {
+    margin: 0;
+    font-family: "poppins", sans-serif;
+    background-image:url("bg.png");
+    background-blend-mode: multiply;
+    background-size: cover;
+   }
+   
+ *{
+     box-sizing: border-box;
+ }
+
+
